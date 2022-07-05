@@ -1,2 +1,2 @@
-# suraj
-My frist python code 
+#My frist python code 
+Print ("hello everyone")
